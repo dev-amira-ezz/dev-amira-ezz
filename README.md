@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **aezz4007@gmail.com**
 
-- ⚡ Fun fact **While working on your code, just before you hit your head to the wall, an idea will shine and you're problem is solved.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amiraezz4007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amiraezz4007" height="30" width="40" /></a>
