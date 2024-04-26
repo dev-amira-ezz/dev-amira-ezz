@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/amiraezz4007" target="blank"><img src="https://img.shields.io/twitter/follow/amiraezz4007?logo=twitter&style=for-the-badge" alt="amiraezz4007" /></a> </p>
 
-- 🔭 I’m currently working on **[Calculator (The Odin Project)](https://github.com/dev-amira-ezz/odin-calculator)**
+- 🔭 I’m currently working on **The Odin Project Intermediate HTML & CSS**
 
-- 🌱 I’m currently learning **The Odin Project Foundations**
+- 🌱 I’m currently learning **The Odin Project Intermediate HTML & CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dev-amira-ezz](https://github.com/dev-amira-ezz)
 
