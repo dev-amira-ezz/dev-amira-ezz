@@ -33,7 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-amira-ezz&show_icons=true&locale=en" alt="dev-amira-ezz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-amira-ezz&" alt="dev-amira-ezz" /></p>
-### Hi there 👋
 
 <!--
 **dev-amira-ezz/dev-amira-ezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
