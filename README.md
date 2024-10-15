@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Dave Gray HTML Tutorial**
 
-- 🌱 I’m currently learning **The Odin Project Intermediate HTML & CSS**
+- 🌱 I’m currently learning **Dave Gray Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dev-amira-ezz](https://github.com/dev-amira-ezz)
 
