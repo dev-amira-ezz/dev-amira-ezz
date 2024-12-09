@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/amiraezz4007" target="blank"><img src="https://img.shields.io/twitter/follow/amiraezz4007?logo=twitter&style=for-the-badge" alt="amiraezz4007" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend Mentor QR Code Project**
+- 🔭 I’m currently working on **Frontend Mentor Blog Preview Card Project**
 
 - 🌱 I’m currently learning **HTML & CSS**
 
