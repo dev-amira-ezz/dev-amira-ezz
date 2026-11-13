@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **[Scrimba's Full-Stack Web Path](https://scrimba.com/fullstack-path-c0fullstack?via=u418292a)**
 
-- 🌱 I’m currently learning **HTML**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dev-amira-ezz](https://github.com/dev-amira-ezz)
 
