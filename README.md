@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/amiraezz4007" target="blank"><img src="https://img.shields.io/twitter/follow/amiraezz4007?logo=twitter&style=for-the-badge" alt="amiraezz4007" /></a> </p>
 
-- 🔭 I’m currently working on **[Scrimba's Full-Stack Web Path]([https://scrimba.com/fullstack-path-c0fullstack?via=u418292a))**
+- 🔭 I’m currently working on **[Scrimba's Full-Stack Web Path](https://scrimba.com/fullstack-path-c0fullstack?via=u418292a)**
 
 - 🌱 I’m currently learning **HTML**
 
